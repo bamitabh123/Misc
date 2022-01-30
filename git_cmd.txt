@@ -13,7 +13,7 @@ git branch -M main
 git remote add origin git@github.com:bamitabh123/Misc.git
 
 ##replace existing repor url
-git remote set-url origin new.git.url/here
+git remote set-url origin git@github.com:bamitabh123/Python.git
 
 git push -u origin main
 
