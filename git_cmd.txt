@@ -1,12 +1,15 @@
 
 Setting up SSH key with GitHub for Ubuntu
-https://medium.com/featurepreneur/setting-up-ssh-key-with-github-for-ubuntu-cd8f2fabf25b
+1.https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+2.https://medium.com/featurepreneur/setting-up-ssh-key-with-github-for-ubuntu-cd8f2fabf25b
 
 git init
 
 git add README.md
 
 git commit -m "first commit"
+
+or git commit -am "first commit"
 
 git branch -M main
 
